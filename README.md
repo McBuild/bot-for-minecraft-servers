@@ -1,5 +1,6 @@
 # bot-for-minecraft-servers
 Russian documentation below
+
 Русская документация ниже
 
 A dummy bot for the minecraft server
@@ -12,6 +13,7 @@ To use this bot, you need to:
 5. Then follow the instructions provided in the program.
 
 | The command to install Mineflayer is: npm install mineflayer
+
 | The command to install JavaScript is: pip install javascript
 
 Болванчик бот для сервера майнкрафт.
@@ -24,4 +26,5 @@ To use this bot, you need to:
 5. Далее следуйте инструкциям, представленным в программе.
 
 | Команда для установки Mineflayer: npm install mineflayer
+
 | Команда для установки JavaScript: pip install javascript

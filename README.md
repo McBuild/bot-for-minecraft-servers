@@ -11,8 +11,8 @@ To use this bot, you need to:
 4. Install the javascript library (the command below).
 5. Then follow the instructions provided in the program.
 
-The command to install Mineflayer is: npm install mineflayer
-The command to install JavaScript is: pip install javascript
+| The command to install Mineflayer is: npm install mineflayer
+| The command to install JavaScript is: pip install javascript
 
 Болванчик бот для сервера майнкрафт.
 
@@ -23,5 +23,5 @@ The command to install JavaScript is: pip install javascript
 4. Установите библиотеку javascript (команда ниже).
 5. Далее следуйте инструкциям, представленным в программе.
 
-Команда для установки Mineflayer: npm install mineflayer
-Команда для установки JavaScript: pip install javascript
+| Команда для установки Mineflayer: npm install mineflayer
+| Команда для установки JavaScript: pip install javascript
